@@ -1,0 +1,5 @@
+.gitignore // should be in the parent folder
+
+.vscode
+
+**/*.class //ignore all class files
